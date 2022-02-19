@@ -1,4 +1,4 @@
-# ET0731_Free19_IOTS-Project
+# ET0731_Free19_IOTS Project
 
 Free19 is a car parking system that can measure the temperature of visitors at the gantry before allowing them to enter the carpark. Furthermore, it can provide real-time temperature of the recent guests, number of vacancies in the carpark, gantry gate’s on/off state through visualizations via a dashboard. If a guest's temperature is high (>37°C), the system will notify us and provide the temperature to us via email through AWS IOT & SNS.
 
